@@ -1,0 +1,5 @@
+{
+  "ages": [10, 20, 20, 20, 20, 20, 30, 30, 30, 40, 40, 50, 50, 60, 70, 80, 90 ],
+  "eye_color": ["blue", "green", "brown", "grey", "hazel"],
+  "hair_color": ["blonde", "brown", "red", "grey", "white", "black"]
+}

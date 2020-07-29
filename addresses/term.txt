@@ -1,0 +1,7 @@
+Avenue
+Lane
+Road
+Street
+Circle
+Loop
+Drive
